@@ -38,16 +38,22 @@ Draw the following UML diagrams to represent the system:
 # DIAGRAMS:
 
 ## Use Case Diagram
+![alt text](usecase.png)
 
 ## Class Diagram
+![alt text](Class.png)
 
 ## Activity Diagram
+![alt text](Activity.png)
 
 ## Sequence Diagram
+![alt text](sequence.png)
 
 ## Communication Diagram
+![alt text](communication.png)
 
 ## Package Diagram
+![alt text](package.png)
 
 # RESULT:
 Thus, the six UML diagrams for the Library Management System were designed successfully to represent its structure, functionality, and interactions between the member, librarian, and admin.
